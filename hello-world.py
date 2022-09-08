@@ -25,4 +25,4 @@ def a_new_function(takes_integer, modulo_integer):
 we_asked_for_it = a_new_function(100,3)
 print(we_asked_for_it)
 
-#Congratz, now you have a list of numbers which has the same remainder, according to the number and the modulu you have entered.
+#Congratz, now you have a list of numbers which has the same remainder, according to the number and the modulo you have entered.
